@@ -52,3 +52,10 @@ npm test
 npm run dev
 ```
 # vercel_deploy
+
+# Fork da git repository di Dario, senza database e senza cluster
+
+#Deploy
+npm install -g vercel
+vercel login ->github
+vercel dev
